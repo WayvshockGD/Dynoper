@@ -1,0 +1,26 @@
+{
+  "name": "@dynoper/core",
+  "version": "1.0.0",
+  "description": "the core base for dynoper",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WayvshockGD/Dynoper.git"
+  },
+  "keywords": [
+    "bot",
+    "yes"
+  ],
+  "author": "wayv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WayvshockGD/Dynoper/issues"
+  },
+  "homepage": "https://github.com/WayvshockGD/Dynoper#readme",
+  "dependencies": {
+    "eris": "^0.14.0"
+  }
+}
